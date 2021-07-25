@@ -1,1 +1,3 @@
-"# BRACUCSE422" 
+# BRACUCSE422
+
+Artificial Intelligence - Summer 2021
